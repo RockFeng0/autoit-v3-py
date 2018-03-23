@@ -1,0 +1,9 @@
+README.md
+setup.py
+autoitpy/__init__.py
+autoitpy/autoit.py
+autoitpy.egg-info/PKG-INFO
+autoitpy.egg-info/SOURCES.txt
+autoitpy.egg-info/dependency_links.txt
+autoitpy.egg-info/not-zip-safe
+autoitpy.egg-info/top_level.txt

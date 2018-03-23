@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: autoitpy
+Version: 1.0.0
+Summary: Windows MFC UI Automation
+Home-page: UNKNOWN
+Author: rock feng
+Author-email: lkf20031988@163.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: Only for MFC UI automation.
+Keywords: autoitpy_1.0.0,egg
+Platform: windows
