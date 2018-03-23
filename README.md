@@ -10,5 +10,5 @@ C:\autoit-v3-py> python
 >>> driver = WinMFCDriver()
 ```
 
-## 简单的API
+## 简单的API- 编写中...敬请期待
 
