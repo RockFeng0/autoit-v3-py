@@ -74,7 +74,7 @@ driver.invoke("ControlClick","Notepad++","","[ID:6]")
  
 
 * * *
-# API文档
+# API参考文档
 
 - 详细的API，请参见 [autoit官网](https://www.autoitscript.com/site/autoit/)
 - 另外，离线的API文档，可以参见，项目路径下的 **doc/AutoItX.chm**
