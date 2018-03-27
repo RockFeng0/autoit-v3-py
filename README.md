@@ -15,6 +15,8 @@ C:\autoit-v3-py> python
 >>> from autoitpy import WinMFCDriver
 >>> driver = WinMFCDriver()
 ```
+> 关于报错如： ImportError: No module named win32com.client
+下载相应版本的[pywin32](https://github.com/mhammond/pywin32/releases)并安装
 
 * * *
 # Windows MFC控件识别
